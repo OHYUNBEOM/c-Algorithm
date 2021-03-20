@@ -1,0 +1,3 @@
+﻿  algor5.cpp
+C:\Users\dbsqj\Desktop\c++\Algorithm\Algorithm5\algor5.cpp(4,25): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  Algorithm5.vcxproj -> C:\Users\dbsqj\Desktop\c++\Algorithm\Debug\Algorithm5.exe
